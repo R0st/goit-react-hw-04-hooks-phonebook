@@ -1,0 +1,12 @@
+.ContactListLi {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    /* padding: 10px; */
+}
+.ContactBtnDel {
+    margin-left: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+}
